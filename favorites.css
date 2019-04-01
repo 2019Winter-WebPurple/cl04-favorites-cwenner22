@@ -1,0 +1,27 @@
+/*
+*Chloe Wenner
+*Due Date
+*My Favorite Things
+*/
+
+/* The universal selector*?
+
+* {
+} 
+/* Body properties here */
+
+body {
+}
+
+img{width: 300px; height:  300px;}/*Applies to all images*/
+figure{float: right;}
+
+#sheepadoodle {width: 400px; height:500px}/*Applies to the sheepadoodle image*/
+
+#icecream {width: 300px; height: 300px}/*Applies to the icecream image*/
+
+#sunrise {width: 500px; height: 400px}/*Applies to the sunrise image*/
+
+
+
+
